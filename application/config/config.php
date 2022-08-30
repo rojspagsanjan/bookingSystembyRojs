@@ -32,7 +32,7 @@ array_pop($base_path);
 $base_path = implode('/', $base_path);
 
 // $config['base_url'] = $_SERVER['REQUEST_SCHEME'].'://'.$_SERVER['HTTP_HOST'].$base_path;
-$config['base_url'] = 'http://localhost/bookingsystem/';
+$config['base_url'] = 'http://localhost/bookingSystembyRojs/';
 /*
 |--------------------------------------------------------------------------
 | Index File
