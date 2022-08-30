@@ -1,0 +1,26 @@
+October 24, 2019
+Author: Eduardo T. Morales
+- added search functionality for getrow function
+    syntax:
+        - add column_order array for parameters with value of indexed array of table columns to be search, ex $parameters['column_order'] = array('username','password')
+        - add search_like array for parameters with the value you want to be search in the table, ex $parameters['search_like'] = 'test'
+- added new session function, instead of $this->session->userdata('username') or $this->session->username, you can now access session('username')
+- added new post function, instead of $this->input->post('username'), you can now use post('username') function
+- added xss filter functionality in post function, just add true in the second parameters and it is optional, ex post('username',true)
+
+
+September 20, 2019
+Author: Eduardo T. Morales
+- Modified global_helper.php file under application/helpers
+
+September 17, 2019
+Author: Eduardo T. Morales
+- Fixed Auto detect base url
+
+September 10, 2019
+Author: Eduardo T. Morales
+- Added new helper named "global_helper" ("project_folder\application\helpers\") (this helper is executed through autoload in codeigniter config folder under application folder "project_folder\application\config")
+- Added json function for displaying json result
+- Added new options instead of only using $this->MY_Model->getRows() you can now use getrow() function with the same parameters to be passed, same as insert, delete, update, datatables
+- Auto detect base url
+

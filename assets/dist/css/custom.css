@@ -1,0 +1,480 @@
+table#DataTables_Table_0 {
+    width: 100%!important;
+}
+
+.manage{
+  display: table;
+}
+
+h1.inp_head {
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+
+.approx{
+  text-align: center;
+}
+
+i.fa.fa-window-close, i.fa.fa-check-square, i.fas.fa-eye{
+  color: #c8c8c8;
+    margin-right: 17px;
+}
+
+span.err {
+    color: red;
+}
+
+i.fa.fa-window-close {
+    color: red!important;
+}
+i.fa.fa-check-square{
+  color:green;
+}
+
+i.fa.fa-comment{
+   margin-right: 17px;
+   color: #756f6f;
+}
+
+span.active{
+  background: #28a745!important;
+  border-color: #28a745!important;
+}
+
+img.logo {
+    max-width: 100%;
+}
+
+.non_border{
+    border:0 !important;
+}
+
+.bg-info1 {
+    background: #000000;
+    color: white;
+}
+
+button.close {
+    color: white;
+}
+
+.required{
+  color: red;
+}
+/* btns */
+.btn-newj {
+      background: #000000;
+      color: white;
+      border-radius: 9px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 70px;
+      padding-right: 70px;
+      font-size: 20px;
+}
+
+.btn-newj:hover, .btn-newj.active-click {
+  background-color: #cecee0;
+  color:black;
+}
+
+[class*=sidebar-dark-] .nav-sidebar>.nav-item.menu-open>.nav-link, [class*=sidebar-dark-] .nav-sidebar>.nav-item:hover>.nav-link, [class*=sidebar-dark-] .nav-sidebar>.nav-item>.nav-link:focus {
+    background-color: rgb(0 0 0);
+}
+
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link:focus, [class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link:hover,[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link.active {
+      background-color: rgba(96, 97, 209, 0.35);
+}
+
+/* input.select2-search__field {
+    display: none;
+} */
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #6b6ca5a3;
+    border-color: #6b6ca5a3;
+    color: #ffffff;
+    padding: 0 10px;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected], .select2-container--default .select2-results__option--highlighted[aria-selected]:hover {
+    background-color: #a0a1c5;
+    color: #ffffff;
+}
+
+aside.main-sidebar {
+    background: white;
+}
+
+/* a.nav-link {
+    color: #545454!important;
+    display: block!important;
+    padding: 0.5rem 1rem!important;
+} */
+
+.badge-info {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.badge {
+    display: inline-block;
+    padding: 0.25em 0.4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 5.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.sidebar {margin-top: 23px;}
+
+a.brand-link {
+    border-bottom: 0px!important;
+}
+
+.elevation-4 {
+    border-right: 1px solid #000000;
+    box-shadow: none!important;
+}
+
+.brand-link {
+    width: 100%!important;
+    max-width: 182px!important;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.content-wrapper {
+    padding:41px;
+    background: white;
+}
+
+.card-body1 {
+    flex: 1 1 auto;
+    padding: 0.25rem;
+    color: #545454;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6!important;
+}
+th.header-title {
+    font-size: 17px;
+    color: #626264;
+}
+.table-bordered th, .table-bordered td {
+    border: 1px solid #adaeb1!important;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgb(227 227 227)!important;
+}
+
+.table th, .table td {
+    padding: 0.75rem!important;
+    vertical-align: middle!important;
+    border-top: 1px solid #a7a7a7 !important;
+}
+
+img.supplier_logo {
+    max-width: 100%;
+    width: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button.btn.btn-primary.add {
+    width: 155px;
+    background-color: #000000;
+    border-color: #000000;
+    font-size: 20px;
+    margin-top: 50px
+}
+
+nav.main-header.navbar.navbar-expand.navbar-white.navbar-light {
+    padding-left: 41px;
+}
+
+.content-header h1 {
+    font-size: 1.8rem;
+    margin: 0;
+    color: #000000;
+}
+
+span.active1 {
+    color: #545454;
+    font-weight: 600;
+}
+
+button.button1 {
+    background: #000000;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border: 0;
+
+}
+
+.actions {
+    text-align: center;
+    /* display: inline-flex; */
+}
+
+i.fas.fa-pen {
+    margin-right: 17px;
+    color: #c8c8c8;
+}
+.text-warning {
+    color: #ffc107 !important;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #ffffff!important;
+    background-color: #000000!important;
+    border-color: #000000!important;
+}
+
+.page-link{
+    color:grey!important;
+}
+.page-link:hover {
+    z-index: 2;
+    color: #000000;
+    text-decoration: none;
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+}
+
+ul.nav.nav-treeview {
+    padding-left: 34px;
+}
+.card {
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.125), 0 1px 3px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+    background-color: #f7f7f7;
+}
+
+tr.even {
+    background: white;
+}
+
+.navbar-white {
+    background-color: #ffffff;
+    border-bottom: 1px solid #000000;
+}
+
+svg {
+    margin-right: .2rem;
+    text-align: center;
+    width: 1.6rem;
+}
+
+h1.inp_head {
+    font-size: 20px;
+    margin: 0;
+    color: #000000;
+}
+
+
+.col-6.dateO {
+    text-align: right;
+}
+
+table.purchase, th.purch, td.purch_td {
+    padding: 2px!important;
+}
+
+td.purch_td {
+    text-align: center;
+}
+
+th.header-title.purch {
+    text-align: center;
+    font-size: 18px!important;
+}
+
+.add_new_product{
+  margin-top: 9px;
+}
+
+.purch_prod, .summary{
+  padding: 10px;
+}
+
+span#addNewPO_edit {
+    float: right;
+    margin-bottom: 7px;
+}
+
+span#addNewPO {
+    float: right;
+    margin-bottom: 7px;
+}
+td.purch_td.hide {
+    display: none;
+}
+
+.row.deliver {
+    text-align: center;
+    display: block;
+}
+
+.multiply{
+  margin: 0 auto;
+}
+
+textarea.notes_stocks {
+    width: 100%;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+span#addNewSO {
+    float: right;
+    margin-bottom: 7px;
+}
+
+@media only screen and (max-width: 1056px){
+  .actions {
+    display: inline-flex;
+}
+}
+@media only screen and (max-width: 362px) {
+    button.button1 {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 354px){
+
+  button.button1 {
+    font-size: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media only screen and (max-width: 394px){
+  p.account{
+      margin-right:0px;
+      font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 350px){
+  img.img-circle.elevation-2 {
+      width: 47px;
+      margin-right: 0px;
+  }
+}
+
+@media only screen and (max-width: 330px){
+  p.account{
+      font-size: 14px;
+  }
+}
+.modal-header.bg-info2 {
+    background: #28a745;
+    color: #ffff;
+}
+.btn.btn-primary.arrivedpo.add {
+    width: 155px;
+    background-color: #28a745;
+    border-color: #28a745;
+    font-size: 20px;
+}
+.sm_dateordered {
+    background: #1ba224;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
+.sm_datedeliv {
+    background: #d52424;
+    color: white;
+    margin: 11px;
+    padding: 3px;
+    border-radius: 5px;
+}
+.view_morestocks {
+    background: #1ba224;
+    color: #fff;
+    padding: 6px;
+    border-radius: 3px;
+}
+.purch_td.remain_stocks {
+    background: #66cc6e;
+}
+p.personal_details {
+    background: #cfcfcf;
+    text-align: center;
+    font-size: 21px;
+}
+p.personal_details_user {
+    background: #cfcfcf;
+    text-align: center;
+    font-size: 21px;
+    margin-top: 26px;
+}
+.box {
+    border: 1px solid #000;
+    border-top: 3px solid #000;
+    margin: 14px;
+    width: 100%;
+}
+h3.box-title {
+    background: #000;
+    color: white;
+    font-size: 20px;
+    padding: 14px;
+}
+td.strong_id {
+    font-weight: 600;
+}
+td.field-label {
+    font-weight: 600;
+}
+.equal, .equal>div[class*=col-] {
+    display: -webkit-flex;
+    flex-wrap: wrap;
+}
+p,p:hover {
+    font-weight: 600;
+}
+
+.fa-eye:before, .fa-pen:before, .fa-trash:before {
+    color: white;
+}
