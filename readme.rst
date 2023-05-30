@@ -16,4 +16,6 @@ Sample Users:
 Username: cpadmin
 Password: admin@123!
 
+Documentation: https://drive.google.com/drive/folders/1nt56AykH5L-NMSo1jcwMzYUBpubZFe3n?usp=sharing
+
 
